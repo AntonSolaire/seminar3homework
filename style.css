@@ -1,0 +1,35 @@
+h1 {
+width: 522px;
+height: 222px;
+
+font-family: 'Gilroy-Bold';
+font-size: 60px;
+line-height: 70px;
+
+color: #000000;
+}
+
+.main_text {
+    width: 466px;
+height: 48px;
+
+font-family: 'Gilroy-Medium';
+font-size: 20px;
+line-height: 23px;
+
+color: #888888;
+}
+
+.main_img {
+    float: right;
+    margin-right: 600px;
+    margin-top: -50px;
+}
+
+.main_buttons {
+    margin-top: 20px;
+}
+
+.logo {
+    margin-top: 20px;
+}
